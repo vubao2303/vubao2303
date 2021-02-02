@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [Link to Portfolio Site](https://vubao2303.github.io/portfolio/)
+- [Link to Github](https://github.com/vubao2303)
+- [Link to LinkedIn](https://www.linkedin.com/in/tram-vu-866250121/)
