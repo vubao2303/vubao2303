@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vubao2303&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vubao2303&show_icons=true&theme=nightowl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vubao2303&langs_count=2)](https://github.com/vubao2303/github-readme-stats)
 <!--
 **vubao2303/vubao2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vubao2303&langs_count=2)](https://github.com/vubao2303/github-readme-stats)
+
 
 - [Link to Portfolio Site](https://vubao2303.github.io/portfolio/)
 - [Link to Github](https://github.com/vubao2303)
