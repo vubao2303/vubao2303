@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vubao2303)](https://github.com//github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vubao2303&langs_count=2)](https://github.com/vubao2303/github-readme-stats)
+
 - [Link to Portfolio Site](https://vubao2303.github.io/portfolio/)
 - [Link to Github](https://github.com/vubao2303)
 - [Link to LinkedIn](https://www.linkedin.com/in/tram-vu-866250121/)
