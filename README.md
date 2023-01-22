@@ -1,7 +1,6 @@
 ### Hello, I am B 
-- [Link to Portfolio Site](https://vu-portfolio.herokuapp.com/)
 
-- [Link to LinkedIn](https://www.linkedin.com/in/tram-vu-866250121/)
+- [Link to LinkedIn](https://www.linkedin.com/in/b-tram-vu/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vubao2303&show_icons=true&theme=nightowl)|
 
